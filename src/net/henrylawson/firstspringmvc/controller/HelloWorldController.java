@@ -14,7 +14,7 @@ public class HelloWorldController {
 
 	@RequestMapping("/")
 	public String index(Model model) {
-		String message = "Welcome to my crappy website!";
+		String message = "Welcome to my crappy website!!";
 		model.addAttribute("message", message);
 		return "index";
 	}
