@@ -7,7 +7,7 @@
     <property name="web.dir" value="WebContent"/>
     <property name="build.dir" value="${web.dir}/WEB-INF/classes"/>
     <property name="lib.dir" value="${web.dir}/WEB-INF/lib"/>
-    <property name="name" value="FirstSpringMVC"/>
+    <property name="name" value="Springy"/>
 
     <path id="master-classpath">
         <fileset dir="${web.dir}/WEB-INF/lib">
