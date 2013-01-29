@@ -1,0 +1,12 @@
+<!DOCTYPE ivy-module>
+
+<ivy-module version="2.0">
+    <info organisation="net.henrylawson.firstspringmvc" module="FirstSpringMVC"/>
+    <configurations>
+        <conf name="binaries" description="Binary jars"/>
+    </configurations>
+    <dependencies>
+    	<dependency org="org.springframework" name="spring-webmvc" rev="3.2.0.RELEASE"/>
+    	<dependency org="javax.validation" name="validation-api" rev="1.0.0.GA"/>
+    </dependencies>
+</ivy-module>

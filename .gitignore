@@ -1,0 +1,16 @@
+
+WebContent/WEB-INF/lib/*
+
+#java specific
+*.class
+*.settings
+*.project
+*.classpath
+
+
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
