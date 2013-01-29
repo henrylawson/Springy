@@ -6,7 +6,7 @@ WebContent/WEB-INF/lib/*
 *.settings
 *.project
 *.classpath
-
+*.war
 
 ## generic files to ignore
 *~
